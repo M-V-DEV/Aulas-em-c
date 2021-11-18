@@ -1,0 +1,11 @@
+1.	Mostre o resultado das expressões lógicas abaixo: a. (10 % 5 * 2 != 5 * 2 + 1) = 1
+b. (3 * 3 / 3 < 15 - 5 % 7) = 1
+c. !(2>3) = 1
+d. (6<8 || 3>7) = 1
+e. ((34 < 9 && 5 + 29 == 34) || (5 == 15/3 && 8 > 12)) = 0
+f.	(2*5 > 3 || (5+1 < 2 && 2 < 7-2)) = 1
+
+2.	Supondo que 𝑥 é uma variável do tipo inteiro e considerando a seguinte expressão lógica:
+(𝑥 % 3 == 0) && (𝑥 % 7 == 0)
+Para qual valor de 𝑥 a expressão lógica acima é avaliada como verdadeira?
+         R: Quando o valor de X for 21. 
